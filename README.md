@@ -9,6 +9,7 @@ My journey in software development started with a passion for solving complex pr
 - **Scalability:** Designing systems that can grow with the needs of the business.
 
 👯 I’m working on MongoDB, JavaScript, NodeJS, ExpressJS, Python, Serverless Architecture and any Cloud services.
+
 🤝 Looking to Collaborate On:
 - **Backend Development:** Focused on MongoDB and API design.
 - **Scalable Systems:** Optimizing for high performance and growth.
