@@ -16,5 +16,5 @@ My journey in software development started with a passion for solving complex pr
 
 Got a project in mind? Let’s connect!
 
-- 📫 How to reach me: gediolamore@gmail.com 
+- 📫 How to reach me: gedionlamore@gmail.com 
 
