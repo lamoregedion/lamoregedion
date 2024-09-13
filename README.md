@@ -21,25 +21,19 @@ Got a project in mind? Let’s connect!
 
 ## Languages and Tools:
 
-**Languages:**
+**Languages and Tools:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-
-**Frameworks and Libraries:**
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-
-**Databases:**
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB_Atlas-black?style=flat&logo=mongodb)
-
-**Tools and Technologies:**
 ![Serverless](https://img.shields.io/badge/-Serverless-black?style=flat&logo=serverless)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazonaws)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)
-![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat&logo=nginx&logoColor=white)
-![MongoDB Ops Manager](https://img.shields.io/badge/-MongoDB_Ops_Manager-black?style=flat&logo=mongodb&logoColor=white)
-
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
+![MongoDB Ops Manager](https://img.shields.io/badge/MongoDB_Ops_Manager-009639?style=flat&logo=mongodb&logoColor=white)
