@@ -28,7 +28,7 @@ Got a project in mind? Let’s connect!
 **Frameworks and Libraries:**
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
-![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django&logoColor=white)  <!-- Updated Django badge -->
+![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 
 **Databases:**
@@ -40,5 +40,6 @@ Got a project in mind? Let’s connect!
 ![Serverless](https://img.shields.io/badge/-Serverless-black?style=flat&logo=serverless)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazonaws)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)
-![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat&logo=nginx&logoColor=white)  <!-- Updated NGINX badge -->
+![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat&logo=nginx&logoColor=white)
+![Ops Manager](https://img.shields.io/badge/-Ops_Manager-black?style=flat&logo=mongodb&logoColor=white)
 
