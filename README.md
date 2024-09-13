@@ -28,7 +28,7 @@ Got a project in mind? Let’s connect!
 **Frameworks and Libraries:**
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
-![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django&logoColor=white)
+![Django](img src="./icons/Django.svg" width="48")
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 
 **Databases:**
