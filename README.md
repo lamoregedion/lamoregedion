@@ -31,8 +31,11 @@ Got a project in mind? Let’s connect!
 
 **Databases:**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![MongoDB Atlas](https://img.shields.io/badge/-MongoDB_Atlas-black?style=flat&logo=mongodb)
 
 **Tools and Technologies:**
 ![Serverless](https://img.shields.io/badge/-Serverless-black?style=flat&logo=serverless)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazonaws)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)
 
