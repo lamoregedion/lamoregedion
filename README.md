@@ -40,5 +40,5 @@ Got a project in mind? Let’s connect!
 ![Serverless](https://img.shields.io/badge/-Serverless-black?style=flat&logo=serverless)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazonaws)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)
-![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat&logo=nginx)
+![NGINX](https://www.f5.com/go/product/welcome-to-nginx)
 
