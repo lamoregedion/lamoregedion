@@ -23,11 +23,13 @@ Got a project in mind? Let’s connect!
 
 **Languages:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Python](https://www.python.org/static/img/python-logo@2x.png)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 
 **Frameworks and Libraries:**
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
+![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 
 **Databases:**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
@@ -38,4 +40,5 @@ Got a project in mind? Let’s connect!
 ![Serverless](https://img.shields.io/badge/-Serverless-black?style=flat&logo=serverless)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazonaws)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)
+![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat&logo=nginx)
 
