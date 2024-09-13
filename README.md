@@ -21,19 +21,20 @@ Got a project in mind? Let’s connect!
 
 ## Languages and Tools:
 
-**Languages and Tools:**
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
-![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-![MongoDB Atlas](https://img.shields.io/badge/-MongoDB_Atlas-black?style=flat&logo=mongodb)
-![Serverless](https://img.shields.io/badge/-Serverless-black?style=flat&logo=serverless)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazonaws)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
-![MongoDB Ops Manager](https://img.shields.io/badge/MongoDB_Ops_Manager-009639?style=flat&logo=mongodb&logoColor=white)
+<div>
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" alt="JavaScript" width="80" height="20"/>
+    <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python" alt="Python" width="80" height="20"/>
+    <img src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js" alt="Node.js" width="80" height="20"/>
+    <img src="https://img.shields.io/badge/-Express.js-black?style=flat&logo=express" alt="Express.js" width="80" height="20"/>
+    <img src="https://img.shields.io/badge/-Django-black?style=flat&logo=django&logoColor=white" alt="Django" width="80" height="20"/>
+    <img src="https://img.shields.io/badge/-React-black?style=flat&logo=react" alt="React" width="80" height="20"/>
+    <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" width="80" height="20"/>
+    <img src="https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb" alt="MongoDB" width="80" height="20"/>
+    <img src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql" alt="MySQL" width="80" height="20"/>
+    <img src="https://img.shields.io/badge/-MongoDB_Atlas-black?style=flat&logo=mongodb" alt="MongoDB Atlas" width="80" height="20"/>
+    <img src="https://img.shields.io/badge/-Serverless-black?style=flat&logo=serverless" alt="Serverless" width="80" height="20"/>
+    <img src="https://img.shields.io/badge/-AWS-black?style=flat&logo=amazonaws" alt="AWS" width="80" height="20"/>
+    <img src="https://img.shields.io/badge/-Postman-black?style=flat&logo=postman" alt="Postman" width="80" height="20"/>
+    <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white" alt="NGINX" width="80" height="20"/>
+    <img src="https://img.shields.io/badge/MongoDB_Ops_Manager-009639?style=flat&logo=mongodb&logoColor=white" alt="MongoDB Ops Manager" width="80" height="20"/>
+</div>
