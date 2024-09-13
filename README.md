@@ -23,7 +23,7 @@ Got a project in mind? Let’s connect!
 
 **Languages:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![Python](https://www.python.org/static/img/python-logo@2x.png)
 
 **Frameworks and Libraries:**
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
