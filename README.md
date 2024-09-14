@@ -22,19 +22,19 @@ Got a project in mind? Let’s connect!
 ## Languages and Tools:
 
 <div>
-    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" alt="JavaScript" width="80" height="20"/>
-    <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python" alt="Python" width="80" height="20"/>
-    <img src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js" alt="Node.js" width="80" height="20"/>
-    <img src="https://img.shields.io/badge/-Express.js-black?style=flat&logo=express" alt="Express.js" width="80" height="20"/>
-    <img src="https://img.shields.io/badge/-Django-black?style=flat&logo=django&logoColor=white" alt="Django" width="80" height="20"/>
-    <img src="https://img.shields.io/badge/-React-black?style=flat&logo=react" alt="React" width="80" height="20"/>
-    <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" width="80" height="20"/>
-    <img src="https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb" alt="MongoDB" width="80" height="20"/>
-    <img src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql" alt="MySQL" width="80" height="20"/>
-    <img src="https://img.shields.io/badge/-MongoDB_Atlas-black?style=flat&logo=mongodb" alt="MongoDB Atlas" width="80" height="20"/>
-    <img src="https://img.shields.io/badge/-Serverless-black?style=flat&logo=serverless" alt="Serverless" width="80" height="20"/>
-    <img src="https://img.shields.io/badge/-AWS-black?style=flat&logo=amazonaws" alt="AWS" width="80" height="20"/>
-    <img src="https://img.shields.io/badge/-Postman-black?style=flat&logo=postman" alt="Postman" width="80" height="20"/>
-    <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white" alt="NGINX" width="80" height="20"/>
-    <img src="https://img.shields.io/badge/MongoDB_Ops_Manager-009639?style=flat&logo=mongodb&logoColor=white" alt="MongoDB Ops Manager" width="80" height="20"/>
+    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" width="60"/>
+    <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" width="60"/>
+    <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=8CC84B" alt="Node.js" width="60"/>
+    <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=000000" alt="Express.js" width="60"/>
+    <img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white" alt="Django" width="60"/>
+    <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" width="60"/>
+    <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=563D7C" alt="Bootstrap" width="60"/>
+    <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" width="60"/>
+    <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" width="60"/>
+    <img src="https://img.shields.io/badge/MongoDB_Atlas-black?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB Atlas" width="60"/>
+    <img src="https://img.shields.io/badge/Serverless-black?style=for-the-badge&logo=serverless&logoColor=000000" alt="Serverless" width="60"/>
+    <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" width="60"/>
+    <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" width="60"/>
+    <img src="https://img.shields.io/badge/NGINX-black?style=for-the-badge&logo=nginx&logoColor=009639" alt="NGINX" width="60"/>
+    <img src="https://img.shields.io/badge/MongoDB_Ops_Manager-black?style=for-the-badge&logo=mongodb&logoColor=009639" alt="MongoDB Ops Manager" width="60"/>
 </div>
