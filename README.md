@@ -21,7 +21,8 @@ Got a project in mind? Let’s connect!
 
 ## Languages and Tools:
 
-<div>
+<div style="background-color: #000000; color: #ffffff; padding: 20px; border-radius: 5px;">
+    <p><strong>Languages and Tools:</strong></p>
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" alt="JavaScript" width="80" height="20"/>
     <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python" alt="Python" width="80" height="20"/>
     <img src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js" alt="Node.js" width="80" height="20"/>
@@ -34,6 +35,6 @@ Got a project in mind? Let’s connect!
     <img src="https://img.shields.io/badge/-MongoDB_Atlas-black?style=flat&logo=mongodb" alt="MongoDB Atlas" width="100" height="20"/>
     <img src="https://img.shields.io/badge/-Serverless-black?style=flat&logo=serverless" alt="Serverless" width="80" height="20"/>
     <img src="https://img.shields.io/badge/-Postman-black?style=flat&logo=postman" alt="Postman" width="80" height="20"/>
-    <img src="https://img.shields.io/badge/NGINX-000000?style=flat&logo=nginx&logoColor=%2347a248&labelColor=000000%22%20alt=%22NGINX%22%20width=%2280%22%20height=%2220%22">
-   <img src="https://img.shields.io/badge/MongoDB_Ops_Manager-000000?style=flat&logo=mongodb&logoColor=%2347a248" alt="MongoDB Ops Manager" width="120" height="20"/>
+    <img src="https://img.shields.io/badge/NGINX-000000?style=flat&logo=nginx&logoColor=%2347a248" alt="NGINX" width="80" height="20"/>
+    <img src="https://img.shields.io/badge/MongoDB_Ops_Manager-000000?style=flat&logo=mongodb&logoColor=%2347a248" alt="MongoDB Ops Manager" width="120" height="20"/>
 </div>
