@@ -21,7 +21,6 @@ Got a project in mind? Let’s connect!
 
 ## Languages and Tools:
 
-**Languages and Tools:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
@@ -33,7 +32,6 @@ Got a project in mind? Let’s connect!
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB_Atlas-black?style=flat&logo=mongodb)
 ![Serverless](https://img.shields.io/badge/-Serverless-black?style=flat&logo=serverless)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazonaws)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
-![MongoDB Ops Manager](https://img.shields.io/badge/MongoDB_Ops_Manager-009639?style=flat&logo=mongodb&logoColor=white)
+![MongoDB Ops Manager](https://img.shields.io/badge/MongoDB_Ops_Manager-009639?style=flat&logo=mongodb&logoColor=green)
