@@ -21,8 +21,20 @@ Got a project in mind? Let’s connect!
 
 ## Languages and Tools:
 
-<div style="background-color:black; padding:10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="50" style="background-color:black"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="50" style="background-color:black"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" alt="Node.js" width="50" style="background-color:black"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg" alt="Express
+<div>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="50"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="50"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" alt="Node.js" width="50"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg" alt="Express.js" width="50"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/django.svg" alt="Django" width="50"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="50"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg" alt="Bootstrap" width="50"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" alt="MongoDB" width="50"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="MySQL" width="50"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" alt="MongoDB Atlas" width="50"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/serverless.svg" alt="Serverless" width="50"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="AWS" width="50"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postman.svg" alt="Postman" width="50"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nginx.svg" alt="NGINX" width="50"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" alt="MongoDB Ops Manager" width="50"/>
+</div>
