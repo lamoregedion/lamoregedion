@@ -33,7 +33,6 @@ Got a project in mind? Let’s connect!
     <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" width="60"/>
     <img src="https://img.shields.io/badge/MongoDB_Atlas-black?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB Atlas" width="60"/>
     <img src="https://img.shields.io/badge/Serverless-black?style=for-the-badge&logo=serverless&logoColor=000000" alt="Serverless" width="60"/>
-    <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" width="60"/>
     <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" width="60"/>
     <img src="https://img.shields.io/badge/NGINX-black?style=for-the-badge&logo=nginx&logoColor=009639" alt="NGINX" width="60"/>
     <img src="https://img.shields.io/badge/MongoDB_Ops_Manager-black?style=for-the-badge&logo=mongodb&logoColor=009639" alt="MongoDB Ops Manager" width="60"/>
