@@ -35,5 +35,5 @@ Got a project in mind? Let’s connect!
     <img src="https://img.shields.io/badge/-Serverless-black?style=flat&logo=serverless" alt="Serverless" width="80" height="20"/>
     <img src="https://img.shields.io/badge/-Postman-black?style=flat&logo=postman" alt="Postman" width="80" height="20"/>
     <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white" alt="NGINX" width="80" height="20"/>
-    <img src="https://img.shields.io/badge/MongoDB_Ops_Manager-009639?style=flat&logo=mongodb&logoColor=white" alt="MongoDB Ops Manager" width="80" height="20"/>
+    <img src="https://img.shields.io/badge/MongoDB_Ops_Manager-009639?style=flat&logo=mongodb&logoColor=darkgreen" alt="MongoDB Ops Manager" width="80" height="20"/>
 </div>
