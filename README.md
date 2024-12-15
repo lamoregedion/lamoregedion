@@ -42,3 +42,6 @@ Got a project in mind? Let’s connect!
     <img src="https://img.shields.io/badge/NGINX-000000?style=flat&logo=nginx&logoColor=%2347a248" alt="NGINX" width="80" height="20"/>
     <img src="https://img.shields.io/badge/MongoDB_Ops_Manager-000000?style=flat&logo=mongodb&logoColor=%2347a248" alt="MongoDB Ops Manager" width="120" height="20"/>
 </div>
+<hr>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lamoregedion&" alt="lamoregedion" /></p>
+
