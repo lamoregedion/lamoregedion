@@ -1,5 +1,9 @@
 ## Hello, I'm Gedion! 👨‍💻
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=lamoregedion&label=Profile%20views&color=0e75b6&style=flat" alt="lamoregedion" />
+</p>
+
 I'm a Backend Developer specializing in MongoDB and other technologies to build efficient and scalable applications.
 
 My journey in software development started with a passion for solving complex problems. Over the years, I've honed my skills in backend development, with a special focus on MongoDB, where I've developed deep expertise in:
